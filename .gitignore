@@ -1,0 +1,4 @@
+.venv/
+DE_Workshop.env
+Data_Engineering_EDA_Workshop_Scaffolding.ipynb
+data/TMDB_movie_dataset_v11.csv
